@@ -1,0 +1,8 @@
+Datasets vs Spearman's Correlations	Avoidance (Binding energy)	5` end secondary structure (Folding energy)	Codon selection (CAI)	mRNA abundance	Reference
+13 GFP mRNA	0.56	0.31	0.29	NA	This manuscript
+154 GFP mRNA	0.65	0.62	0.02	NA	Kudla et. al 2009
+sfGFP-mCherry	0.11	0.26	-0.2	0.26	Goodman et. al 2013
+Microarray-LC-MS	0.11	-0.03	0.32	0.69	Laurent et. al 2010
+Microarray-APEX(MS)	0.09	-0.012	0.35	0.68	Lu et. al 2007
+Microarray-LC-MS	0.09	0.05	0.09	0.74	Kwon et. al 2014
+Microarray-LC-MS	0.11	0.008	0.009	0.69	Laurent et. al 2010
