@@ -1,4 +1,4 @@
-#Avoidance plots as high quality PDF files.
+# Avoidance plots as high quality PDF files.
 
 figure_heartbeat_plot_phyla_cons.pdf : Figure 1 of main manuscript.
 figure_heatmap_scatterplots.pdf : Figure 2 of main manuscript.
