@@ -8,10 +8,10 @@ The plots directory contains high quality PDF plot files.
 
 
 
-Authors: 	 	 	
+## Authors: 	 	 	
 Sinan U. Umu <sup>1,2</sup>, Anthony M. Poole <sup>1,2,3</sup>, Renwick C.J. Dobson <sup>1,2,4</sup>, Paul P. Gardner <sup>1,2*</sup>
 
-Affiliations: 	 	
+## Affiliations: 	 	
 <sup>1</sup>School of Biological Sciences, University of Canterbury, Christchurch, New Zealand. 
 
 <sup>2</sup>Biomolecular Interaction Centre, University of Canterbury, Christchurch, New Zealand.
@@ -23,7 +23,7 @@ Affiliations:
 <sup>*</sup>paul.gardner@canterbury.ac.nz
 
 
-Github repo contacts:
+## Github repo contacts:
 Sinan U. Umu sinanugur@gmail.com,sinan.umu@pg.canterbury.ac.nz
 
 Paul P. Gardner paul.gardner@canterbury.ac.nz,ppgardner@gmail.com 
