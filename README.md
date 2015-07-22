@@ -7,7 +7,7 @@ The plots directory contains high quality PDF plot files (Figs. 1-2 and Figs. S1
 
 
 ## Authors: 	 	 	
-Sinan U. Umu <sup>1,2</sup>, Anthony M. Poole <sup>1,2,3</sup>, Renwick C.J. Dobson <sup>1,2,4</sup>, Paul P. Gardner <sup>1,2*</sup>
+<strong>Sinan U. Umu</strong> <sup>1,2</sup>, Anthony M. Poole <sup>1,2,3</sup>, Renwick C.J. Dobson <sup>1,2,4</sup>, Paul P. Gardner <sup>1,2*</sup>
 
 ### Affiliations: 	 	
 <sup>1</sup>School of Biological Sciences, University of Canterbury, Christchurch, New Zealand.  
