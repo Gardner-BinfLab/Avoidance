@@ -9,6 +9,7 @@ figure_eCDF.pdf : <strong>Figure S3</strong>
 figure_barplot.pdf : <strong>Figure S4</strong>  
 figure_GC_distribution.pdf : <strong>Figure S5</strong>  
 figure_tree.pdf : <strong>Figure S6</strong> 
+figure_scatter_plot.pdf : <strong>Figure S7</strong> 
 
 
 
