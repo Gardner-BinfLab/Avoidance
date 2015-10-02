@@ -1,18 +1,16 @@
 ## Avoidance plots as high quality PDF files.
 
 ### The main manuscript figures  
-figure_heartbeat_plot_phyla_cons.pdf : <strong>Figure 1</strong>  
-figure_heatmap_scatterplots.pdf : <strong>Figure 2</strong>  
+<strong>Figure 1</strong>  
+<strong>Figure 2</strong>  
 
 ### Supplementary figures  
-figure_suppl_binding_profile.pdf : <strong>Figure S1</strong>  
-figure_suppl_SSU_sketch.pdf : <strong>Figure S2</strong>  
-figure_eCDF.pdf : <strong>Figure S3</strong>   
-figure_barplot.pdf : <strong>Figure S4</strong>  
-figure_GC_distribution.pdf : <strong>Figure S5</strong>  
-figure_tree.pdf : <strong>Figure S6</strong>  
-figure_scatter_plot.pdf : <strong>Figure S7</strong>  
-figure_boxplot.pdf : <strong>Figure S8</strong>  
+<strong>Extended Data Figure 1</strong>  
+<strong>Extended Data Figure 2</strong>  
+<strong>Extended Data Figure 3</strong>   
+<strong>Extended Data Figure 4</strong>  
+<strong>Extended Data Figure 5</strong>  
+<strong>Extended Data Figure 6</strong>  
 
 
 
