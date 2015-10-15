@@ -1,6 +1,6 @@
 # Avoidance paper supplementary files.
 
-The data directory contains all supplementary tables (Table S1-S4).  
+The data directory contains all supplementary tables (Extended Data Table 1-4).  
 The plots directory contains high quality PDF plot files (Figures 1-2 and Extended Data Figures 1-6).  
 The scripts directory contains python scripts.  
 
