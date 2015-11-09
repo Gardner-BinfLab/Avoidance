@@ -1,7 +1,7 @@
 Datasets vs Spearman's Correlations	Avoidance (Binding energy)	5` end secondary structure (Folding energy)	Codon selection (CAI)	mRNA abundance	Reference
 Extreme GFP mRNAs	0.56 (6.947e-06)	0.34 (0.00601)	0.29 (0.01649)	NA	This manuscript
 GFP mRNAs	0.65 (1.695031e-20)	0.62 (5.732636e-18)	0.02 (0.4016471)	NA	Kudla et. al 2009
-sfGFP-mCherry	0.11 (2.2e-16)	0.26 (2.2e-16)	-0.2 (1)	0.26 (2.2e-16)	Goodman et. al 2013
+sfGFP-mCherry	0.11 (3.17e-41)	0.26 (3.8e-225)	-0.2 (1)	0.26 (2.2e-16)	Goodman et. al 2013
 Microarray-LC-MS	0.11 (0.01799)	-0.03 (0.7422)	0.32 (1.889e-11)	0.69 (2.2e-16)	Laurent et. al 2010
 Microarray-APEX(MS)	0.09 (0.02296)	-0.012 (0.6003)	0.35 (1.085e-13)	0.68 (2.2e-16)	Lu et. al 2007
 Microarray-LC-MS	0.09 (1.648e-05)	0.05 (0.01539)	0.09 (4.779e-05)	0.74 (2.2e-16)	Kwon et. al 2014
