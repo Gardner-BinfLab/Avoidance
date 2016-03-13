@@ -1,53 +1,53 @@
-"ID"	"Color"	"Binding_En"	"Folding_En"	"CAI"	"GFP"
-"GFP-hi.Avoid_1"	"firebrick4"	-187.76	-6.3	0.733142	44438
-"GFP-hi.Avoid_2"	"firebrick4"	-193.44	-4.8	0.734784	39420
-"GFP-hi.Codon_1"	"darkorange4"	-239.33	-4.3	0.816208	39144
-"GFP-hi.Codon_2"	"darkorange4"	-210.07	-4.6	0.803954	25716
-"GFP-low.Fold_1"	"dodgerblue1"	-239.33	-0.2	0.711566	32429
-"GFP-low.Fold_2"	"dodgerblue1"	-258.69	-0.3	0.745629	40962
-"GFP-low.Avoid_1"	"firebrick1"	-314.71	-5.9	0.693751	18852
-"GFP-low.Avoid_2"	"firebrick1"	-292.48	-4.9	0.753171	30270
-"GFP-low.Codon_1"	"darkorange1"	-223.19	-4.2	0.626131	39516
-"GFP-low.Codon_2"	"darkorange1"	-254.55	-5.4	0.630806	30930
-"GFP-hi.Fold_1"	"dodgerblue4"	-267.17	-14.5	0.738237	38169
-"GFP-hi.Fold_2"	"dodgerblue4"	-239.27	-14.4	0.714883	21476
-"GFP-Optimal"	"black"	-178.66	-1.3	0.765974	44174
-"GFP-hi.Avoid_1"	"firebrick4"	-187.76	-6.3	0.733142	44090
-"GFP-hi.Avoid_2"	"firebrick4"	-193.44	-4.8	0.734784	40135
-"GFP-hi.Codon_1"	"darkorange4"	-239.33	-4.3	0.816208	38171
-"GFP-hi.Codon_2"	"darkorange4"	-210.07	-4.6	0.803954	25170
-"GFP-low.Fold_1"	"dodgerblue1"	-239.33	-0.2	0.711566	30847
-"GFP-low.Fold_2"	"dodgerblue1"	-258.69	-0.3	0.745629	42302
-"GFP-low.Avoid_1"	"firebrick1"	-314.71	-5.9	0.693751	18885
-"GFP-low.Avoid_2"	"firebrick1"	-292.48	-4.9	0.753171	30915
-"GFP-low.Codon_1"	"darkorange1"	-223.19	-4.2	0.626131	38063
-"GFP-low.Codon_2"	"darkorange1"	-254.55	-5.4	0.630806	31118
-"GFP-hi.Fold_1"	"dodgerblue4"	-267.17	-14.5	0.738237	38053
-"GFP-hi.Fold_2"	"dodgerblue4"	-239.27	-14.4	0.714883	21587
-"GFP-Optimal"	"black"	-178.66	-1.3	0.765974	46020
-"GFP-hi.Avoid_1"	"firebrick4"	-187.76	-6.3	0.733142	42182
-"GFP-hi.Avoid_2"	"firebrick4"	-193.44	-4.8	0.734784	40319
-"GFP-hi.Codon_1"	"darkorange4"	-239.33	-4.3	0.816208	37923
-"GFP-hi.Codon_2"	"darkorange4"	-210.07	-4.6	0.803954	25496
-"GFP-low.Fold_1"	"dodgerblue1"	-239.33	-0.2	0.711566	31105
-"GFP-low.Fold_2"	"dodgerblue1"	-258.69	-0.3	0.745629	41074
-"GFP-low.Avoid_1"	"firebrick1"	-314.71	-5.9	0.693751	19735
-"GFP-low.Avoid_2"	"firebrick1"	-292.48	-4.9	0.753171	31513
-"GFP-low.Codon_1"	"darkorange1"	-223.19	-4.2	0.626131	38538
-"GFP-low.Codon_2"	"darkorange1"	-254.55	-5.4	0.630806	30680
-"GFP-hi.Fold_1"	"dodgerblue4"	-267.17	-14.5	0.738237	37347
-"GFP-hi.Fold_2"	"dodgerblue4"	-239.27	-14.4	0.714883	20956
-"GFP-Optimal"	"black"	-178.66	-1.3	0.765974	45494
-"GFP-hi.Avoid_1"	"firebrick4"	-187.76	-6.3	0.733142	41363
-"GFP-hi.Avoid_2"	"firebrick4"	-193.44	-4.8	0.734784	41757
-"GFP-hi.Codon_1"	"darkorange4"	-239.33	-4.3	0.816208	36455
-"GFP-hi.Codon_2"	"darkorange4"	-210.07	-4.6	0.803954	39724
-"GFP-low.Fold_1"	"dodgerblue1"	-239.33	-0.2	0.711566	30645
-"GFP-low.Fold_2"	"dodgerblue1"	-258.69	-0.3	0.745629	41818
-"GFP-low.Avoid_1"	"firebrick1"	-314.71	-5.9	0.693751	18651
-"GFP-low.Avoid_2"	"firebrick1"	-292.48	-4.9	0.753171	30984
-"GFP-low.Codon_1"	"darkorange1"	-223.19	-4.2	0.626131	38240
-"GFP-low.Codon_2"	"darkorange1"	-254.55	-5.4	0.630806	31461
-"GFP-hi.Fold_1"	"dodgerblue4"	-267.17	-14.5	0.738237	37725
-"GFP-hi.Fold_2"	"dodgerblue4"	-239.27	-14.4	0.714883	20989
-"GFP-Optimal"	"black"	-178.66	-1.3	0.765974	45597
+ID	Code	Color	Binding_En	Folding_En	CAI	GFP	RTPCR-CT	RTPCR-DeltaDelta	GFP-Mean
+GFP-hi.Avoid_1	1028	firebrick4	-187.76	-6.3	0.733142	44438	16.656	-0.119	43018.25
+GFP-hi.Avoid_1	1028	firebrick4	-187.76	-6.3	0.733142	44090	16.656	-0.119	43018.25
+GFP-hi.Avoid_1	1028	firebrick4	-187.76	-6.3	0.733142	42182	16.656	-0.119	43018.25
+GFP-hi.Avoid_1	1028	firebrick4	-187.76	-6.3	0.733142	41363	16.656	-0.119	43018.25
+GFP-hi.Avoid_2	1029	firebrick4	-193.44	-4.8	0.734784	39420	17.126	0.129	40407.75
+GFP-hi.Avoid_2	1029	firebrick4	-193.44	-4.8	0.734784	40135	17.126	0.129	40407.75
+GFP-hi.Avoid_2	1029	firebrick4	-193.44	-4.8	0.734784	40319	17.126	0.129	40407.75
+GFP-hi.Avoid_2	1029	firebrick4	-193.44	-4.8	0.734784	41757	17.126	0.129	40407.75
+GFP-hi.Codon_1	1034	darkorange4	-239.33	-4.3	0.816208	39144	16.771	-0.517	37923.25
+GFP-hi.Codon_1	1034	darkorange4	-239.33	-4.3	0.816208	38171	16.771	-0.517	37923.25
+GFP-hi.Codon_1	1034	darkorange4	-239.33	-4.3	0.816208	37923	16.771	-0.517	37923.25
+GFP-hi.Codon_1	1034	darkorange4	-239.33	-4.3	0.816208	36455	16.771	-0.517	37923.25
+GFP-hi.Codon_2	1035	darkorange4	-210.07	-4.6	0.803954	25716	16.593	0.607	29026.5
+GFP-hi.Codon_2	1035	darkorange4	-210.07	-4.6	0.803954	25170	16.593	0.607	29026.5
+GFP-hi.Codon_2	1035	darkorange4	-210.07	-4.6	0.803954	25496	16.593	0.607	29026.5
+GFP-hi.Codon_2	1035	darkorange4	-210.07	-4.6	0.803954	39724	16.593	0.607	29026.5
+GFP-hi.Fold_1	1030	dodgerblue4	-267.17	-14.5	0.738237	38169	16.717	0.172	37823.5
+GFP-hi.Fold_1	1030	dodgerblue4	-267.17	-14.5	0.738237	38053	16.717	0.172	37823.5
+GFP-hi.Fold_1	1030	dodgerblue4	-267.17	-14.5	0.738237	37347	16.717	0.172	37823.5
+GFP-hi.Fold_1	1030	dodgerblue4	-267.17	-14.5	0.738237	37725	16.717	0.172	37823.5
+GFP-hi.Fold_2	1031	dodgerblue4	-239.27	-14.4	0.714883	21476	17.255	1.513	21252
+GFP-hi.Fold_2	1031	dodgerblue4	-239.27	-14.4	0.714883	21587	17.255	1.513	21252
+GFP-hi.Fold_2	1031	dodgerblue4	-239.27	-14.4	0.714883	20956	17.255	1.513	21252
+GFP-hi.Fold_2	1031	dodgerblue4	-239.27	-14.4	0.714883	20989	17.255	1.513	21252
+GFP-low.Avoid_1	1026	firebrick1	-314.71	-5.9	0.693751	18852	17.448	1.892	19030.75
+GFP-low.Avoid_1	1026	firebrick1	-314.71	-5.9	0.693751	18885	17.448	1.892	19030.75
+GFP-low.Avoid_1	1026	firebrick1	-314.71	-5.9	0.693751	19735	17.448	1.892	19030.75
+GFP-low.Avoid_1	1026	firebrick1	-314.71	-5.9	0.693751	18651	17.448	1.892	19030.75
+GFP-low.Avoid_2	1027	firebrick1	-292.48	-4.9	0.753171	30270	16.802	0.496	30920.5
+GFP-low.Avoid_2	1027	firebrick1	-292.48	-4.9	0.753171	30915	16.802	0.496	30920.5
+GFP-low.Avoid_2	1027	firebrick1	-292.48	-4.9	0.753171	31513	16.802	0.496	30920.5
+GFP-low.Avoid_2	1027	firebrick1	-292.48	-4.9	0.753171	30984	16.802	0.496	30920.5
+GFP-low.Codon_1	1036	darkorange1	-223.19	-4.2	0.626131	39516	16.455	0.337	38589.25
+GFP-low.Codon_1	1036	darkorange1	-223.19	-4.2	0.626131	38063	16.455	0.337	38589.25
+GFP-low.Codon_1	1036	darkorange1	-223.19	-4.2	0.626131	38538	16.455	0.337	38589.25
+GFP-low.Codon_1	1036	darkorange1	-223.19	-4.2	0.626131	38240	16.455	0.337	38589.25
+GFP-low.Codon_2	1037	darkorange1	-254.55	-5.4	0.630806	30930	15.929	-0.037	31047.25
+GFP-low.Codon_2	1037	darkorange1	-254.55	-5.4	0.630806	31118	15.929	-0.037	31047.25
+GFP-low.Codon_2	1037	darkorange1	-254.55	-5.4	0.630806	30680	15.929	-0.037	31047.25
+GFP-low.Codon_2	1037	darkorange1	-254.55	-5.4	0.630806	31461	15.929	-0.037	31047.25
+GFP-low.Fold_1	1032	dodgerblue1	-239.33	-0.2	0.711566	32429	16.454	0.063	31256.5
+GFP-low.Fold_1	1032	dodgerblue1	-239.33	-0.2	0.711566	30847	16.454	0.063	31256.5
+GFP-low.Fold_1	1032	dodgerblue1	-239.33	-0.2	0.711566	31105	16.454	0.063	31256.5
+GFP-low.Fold_1	1032	dodgerblue1	-239.33	-0.2	0.711566	30645	16.454	0.063	31256.5
+GFP-low.Fold_2	1033	dodgerblue1	-258.69	-0.3	0.745629	40962	16.827	-0.312	41539
+GFP-low.Fold_2	1033	dodgerblue1	-258.69	-0.3	0.745629	42302	16.827	-0.312	41539
+GFP-low.Fold_2	1033	dodgerblue1	-258.69	-0.3	0.745629	41074	16.827	-0.312	41539
+GFP-low.Fold_2	1033	dodgerblue1	-258.69	-0.3	0.745629	41818	16.827	-0.312	41539
+GFP-Optimal	1025	black	-178.66	-1.3	0.765974	44174	17.316	0	45321.25
+GFP-Optimal	1025	black	-178.66	-1.3	0.765974	46020	17.316	0	45321.25
+GFP-Optimal	1025	black	-178.66	-1.3	0.765974	45494	17.316	0	45321.25
+GFP-Optimal	1025	black	-178.66	-1.3	0.765974	45597	17.316	0	45321.25
