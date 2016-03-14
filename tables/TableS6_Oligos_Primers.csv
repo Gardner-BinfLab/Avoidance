@@ -1,0 +1,14 @@
+Oligos:
+4 house keeping genes were initially tested for levels of expression and rpsL gene was chosen as internat control
+cysG-F            TTGTCGGCGGTGGTGATGTC      
+cysG-REV       ATGCGGTGAACTGTGGAATAAACG
+ldnT-F CTGTTTAGCGAAGAGGAGATGC
+ldnT-REV       ACAAACGGCGGCGATAGC
+hcaT-F GCTGCTCGGCTTTCTCATCC       
+hcaT-REV       CCAACCACGCTGACCAACC
+rpsL-F gtaaagtatgccgtgttcgt
+rpsL-REV       agcctgcttacggtcttta
+
+GFP primers:
+SYBRF-LEFT ttaacctgatgttctggggaat
+SYBRRev-RIGHT cagcagccaactcagcttc
