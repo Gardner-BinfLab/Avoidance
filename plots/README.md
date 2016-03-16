@@ -11,9 +11,9 @@
 <strong>Supplementary Figure S3</strong>  A barplot of the prevalence of avoidance for bacterial and archaeal phyla.  
 <strong>Supplementary Figure S4</strong>  A maximum likelihood tree and expression boxplots of extreme GFP mRNA constructs.  
 <strong>Supplementary Figure S5</strong>  The scatter-plots of protein abundances summarize the effect of general factors for extreme GFP and previously published GFP datasets.  
-<strong>Supplementary Figure S6</strong>  Comparison of different regions for evolutionary conservation analyses.
-<strong>Supplementary Figure S7</strong>  The expression profiles of ncRNA genes and protein coding genes.
-<strong>Supplementary Figure S8</strong>  Overview of mRNA:ncRNA avoidance analysis and results.
+<strong>Supplementary Figure S6</strong>  Comparison of different regions for evolutionary conservation analyses.  
+<strong>Supplementary Figure S7</strong>  The expression profiles of ncRNA genes and protein coding genes.  
+<strong>Supplementary Figure S8</strong>  Overview of mRNA:ncRNA avoidance analysis and results.  
 
 
 
