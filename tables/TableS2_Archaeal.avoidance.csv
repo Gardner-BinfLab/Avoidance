@@ -1,119 +1,119 @@
-Species_Name,EMBL,Phylum,p.value,GENOME_GC,GENOME_Size,GC_Core_1.21_CDS%,GC_Rfam_Core%,Avoidance_Group,Intrinsic
-Methanothermobacter thermautotrophicus str. Delta H,AE000666.1,Euryarchaeota,0.04769659133,0.5,1751377,38.18508535,60.74576271,Avoidance,6.92E-18
-Archaeoglobus fulgidus DSM 4304,AE000782.1,Euryarchaeota,0.003795630175,0.49,2178400,45.10332435,66.99805068,Avoidance,1.27E-21
-Halobacterium sp. NRC-1,AE004437.1,Euryarchaeota,0.9994790373,0.68,2014239,55.64892624,62.41088788,Non-Avoidance,1.69E-08
-Sulfolobus solfataricus P2,AE006641.1,Crenarchaeota,0.9918048979,0.36,2992245,35.71428571,64.92767756,Non-Avoidance,4.54E-24
-Methanosarcina mazei Go1,AE008384.1,Euryarchaeota,1.00E-10,0.41,4096345,38.0952381,59.45278358,Avoidance,1.79E-20
-Methanopyrus kandleri AV19,AE009439.1,Euryarchaeota,1.93E-11,0.61,1694969,56.42407907,72.05979336,Avoidance,6.64E-16
-Pyrobaculum aerophilum str. IM2,AE009441.1,Crenarchaeota,0.8939169904,0.51,2222430,46.76549865,68.09304367,Non-Avoidance,1.91E-19
-Pyrococcus furiosus DSM 3638,AE009950.1,Euryarchaeota,1.10E-09,0.41,1908256,40.70080863,69.5262484,Avoidance,9.03E-23
-Methanosarcina acetivorans C2A,AE010299.1,Euryarchaeota,0.04947208988,0.43,5751492,38.67924528,58.83176635,Avoidance,1.30E-19
-Nanoarchaeum equitans Kin4-M,AE017199.1,Nanoarchaeota,0.001327312706,0.32,490885,34.27524856,70.63014919,Avoidance,3.11E-19
-Picrophilus torridus DSM 9790,AE017261.1,Euryarchaeota,0.0006805438987,0.36,1545895,34.59119497,58.88179617,Avoidance,7.27E-19
-uncultured methanogenic archaeon RC-I,AM114193.2,Euryarchaeota,0.005284137155,0.55,3179916,45.12471655,58.75376884,Avoidance,9.52E-17
-Haloquadratum walsbyi,AM180088.1,Euryarchaeota,0.004817656753,0.48,3132494,44.12698413,59.30782459,Avoidance,2.60E-15
-Halobacterium salinarum R1,AM774415.1,Euryarchaeota,0.9998560122,0.68,2000962,55.08241758,62.41088788,Non-Avoidance,2.93E-09
-Thermococcus kodakarensis KOD1,AP006878.1,Euryarchaeota,6.25E-05,0.52,2088737,47.75381851,69.88210075,Avoidance,2.74E-23
-Methanocella paludicola SANAE,AP011532.1,Euryarchaeota,0.7763268357,0.55,2957635,46.04672058,59.50168919,Non-Avoidance,2.67E-13
-Haloarcula marismortui ATCC 43049,AY596297.1,Euryarchaeota,0.9994196012,0.62,3131724,52.42673993,61.6807068,Non-Avoidance,2.99E-12
-Pyrococcus horikoshii OT3,BA000001.2,Euryarchaeota,0.7985392957,0.42,1738505,42.18328841,69.74222222,Non-Avoidance,2.26E-23
-Aeropyrum pernix K1,BA000002.3,Crenarchaeota,0.9396456519,0.56,1669696,55.70530099,69.53078598,Non-Avoidance,1.11E-17
-Thermoplasma volcanium GSS1,BA000011.4,Euryarchaeota,1.22E-12,0.4,1584804,37.42138365,58.82859604,Avoidance,4.81E-19
-Sulfolobus tokodaii str. 7,BA000023.2,Crenarchaeota,0.6986428952,0.33,2694756,33.19856244,65.42625169,Non-Avoidance,9.98E-23
-Methanococcus maripaludis,BX950229.1,Euryarchaeota,1.04E-07,0.33,1661137,32.92902066,57.66050584,Avoidance,5.98E-17
-Sulfolobus acidocaldarius DSM 639,CP000077.1,Crenarchaeota,0.4346260025,0.37,2225959,35.13027853,64.35452794,Non-Avoidance,7.71E-24
-Methanosarcina barkeri str. Fusaro,CP000099.1,Euryarchaeota,0.0005102005933,0.39,4837408,36.79245283,58.34135078,Avoidance,7.24E-21
-Methanosphaera stadtmanae DSM 3091,CP000102.1,Euryarchaeota,0.001476864996,0.28,1767403,28.70748299,53.34970969,Avoidance,3.70E-17
-Methanospirillum hungatei JF-1,CP000254.1,Euryarchaeota,0.00162489435,0.45,3544738,43.03683738,57.85161584,Avoidance,3.35E-14
-Methanococcoides burtonii DSM 6242,CP000300.1,Euryarchaeota,0.8457713549,0.41,2575032,35.93890386,56.64236533,Non-Avoidance,4.94E-20
-Methanosaeta thermophila PT,CP000477.1,Euryarchaeota,0.6767192426,0.54,1879471,47.52920036,60.71568244,Non-Avoidance,2.82E-16
-Hyperthermus butylicus DSM 5456,CP000493.1,Crenarchaeota,0.005952095362,0.54,1667163,52.33602875,71.92788815,Avoidance,4.98E-20
-Pyrobaculum islandicum DSM 4184,CP000504.1,Crenarchaeota,0.1341090981,0.5,1826402,42.22821204,68.94943544,Non-Avoidance,4.81E-17
-Thermofilum pendens Hrk 5,CP000505.1,Crenarchaeota,6.95E-07,0.58,1781889,50.80862534,68.59424147,Avoidance,1.62E-13
-Methanocorpusculum labreanum Z,CP000559.1,Euryarchaeota,6.43E-06,0.5,1804962,42.00359389,56.85377018,Avoidance,2.91E-14
-Pyrobaculum calidifontis JCM 11548,CP000561.1,Crenarchaeota,0.1327634458,0.57,2009313,49.569161,68.45823096,Non-Avoidance,7.29E-12
-Methanoculleus marisnigri JR1,CP000562.1,Euryarchaeota,5.63E-11,0.62,2478101,46.63072776,60.43707611,Avoidance,2.56E-15
-Staphylothermus marinus F1,CP000575.1,Crenarchaeota,1.36E-08,0.36,1570485,36.61275831,68.42201835,Avoidance,2.11E-20
-Methanococcus maripaludis C5,CP000609.1,Euryarchaeota,1.19E-06,0.33,1780761,33.19856244,57.52516011,Avoidance,2.66E-17
-Pyrobaculum arsenaticum DSM 13514,CP000660.1,Crenarchaeota,8.65E-05,0.55,2121076,50.26954178,67.93960924,Avoidance,2.97E-18
-Methanobrevibacter smithii ATCC 35061,CP000678.1,Euryarchaeota,0.1528672071,0.31,1853160,27.98742138,54.17867435,Non-Avoidance,4.10E-18
-Metallosphaera sedula DSM 5348,CP000682.1,Crenarchaeota,0.991793748,0.46,2191517,39.57771788,64.80097341,Non-Avoidance,1.90E-22
-Methanococcus vannielii SB,CP000742.1,Euryarchaeota,0.0001730436169,0.31,1720048,31.94070081,57.66109785,Avoidance,1.89E-16
-Methanococcus aeolicus Nankai-3,CP000743.1,Euryarchaeota,4.15E-15,0.3,1569500,29.38005391,57.07373272,Avoidance,2.56E-17
-Methanococcus maripaludis C7,CP000745.1,Euryarchaeota,5.78E-05,0.33,1772694,33.33333333,57.96997856,Avoidance,5.91E-17
-Methanoregula boonei 6A8,CP000780.1,Euryarchaeota,0.0008896518247,0.55,2542943,47.52920036,58.92748324,Avoidance,3.66E-12
-Ignicoccus hospitalis KIN4/I,CP000816.1,Crenarchaeota,0.3171790531,0.57,1297538,54.94159928,71.63312694,Non-Avoidance,1.13E-16
-Caldivirga maquilingensis IC-167,CP000852.1,Crenarchaeota,1.14E-07,0.43,2077567,44.78885894,67.66241905,Avoidance,5.57E-20
-Thermococcus onnurineus NA1,CP000855.1,Euryarchaeota,0.002593606167,0.51,1847607,48.15813118,69.297933,Avoidance,4.34E-23
-Nitrosopumilus maritimus SCM1,CP000866.1,Thaumarchaeota,0.3345152408,0.34,1645259,34.23180593,55.66172957,Non-Avoidance,1.17E-16
-Methanococcus maripaludis C6,CP000867.1,Euryarchaeota,0.0006960656051,0.33,1744193,33.37825696,57.90852787,Avoidance,7.45E-17
-Candidatus Korarchaeum cryptofilum OPF8,CP000968.1,Korarchaeota,0.001125343037,0.49,1590757,48.58058608,69.01017576,Avoidance,8.33E-22
-Thermoproteus neutrophilus V24Sta,CP001014.1,Crenarchaeota,0.1671174971,0.6,1769823,52.96495957,68.67924528,Non-Avoidance,5.51E-17
-Desulfurococcus kamchatkensis 1221n,CP001140.1,Crenarchaeota,0.02011934342,0.45,1365223,43.44671202,68.78185106,Avoidance,5.54E-23
-Methanosphaerula palustris E1-9c,CP001338.1,Euryarchaeota,0.03095934201,0.55,2922917,45.73225517,58.16152828,Avoidance,3.39E-15
-Halorubrum lacusprofundi ATCC 49239,CP001365.1,Euryarchaeota,0.9999435926,0.67,2735295,55.1212938,62.03128348,Non-Avoidance,4.70E-08
-Halorubrum lacusprofundi ATCC 49239,CP001366.1,Euryarchaeota,0.7983707322,0.57,525943,50.34013605,57.93269231,Non-Avoidance,0.1051925
-Thermococcus gammatolerans EJ3,CP001398.1,Euryarchaeota,9.20E-07,0.54,2045438,49.95507637,69.85533454,Avoidance,6.27E-23
-Sulfolobus islandicus L.S.2.15,CP001399.1,Crenarchaeota,0.9445388288,0.35,2736272,35.55555556,65.06827048,Non-Avoidance,5.13E-24
-Sulfolobus islandicus M.14.25,CP001400.1,Crenarchaeota,0.8970743949,0.35,2608832,35.80413297,65.01950585,Non-Avoidance,4.69E-24
-Sulfolobus islandicus M.16.27,CP001401.1,Crenarchaeota,0.8861741879,0.35,2692402,35.71428571,65.0520156,Non-Avoidance,4.61E-24
-Sulfolobus islandicus M.16.4,CP001402.1,Crenarchaeota,0.9437703281,0.35,2586647,35.80413297,64.97074122,Non-Avoidance,4.69E-24
-Sulfolobus islandicus Y.G.57.14,CP001403.1,Crenarchaeota,0.9085125943,0.35,2702058,35.62443845,65.06827048,Non-Avoidance,4.74E-24
-Sulfolobus islandicus Y.N.15.51,CP001404.1,Crenarchaeota,0.9811492236,0.35,2812165,35.62443845,65.00325098,Non-Avoidance,4.68E-24
-Thermococcus sibiricus MM 739,CP001463.1,Euryarchaeota,0.1815090642,0.4,1845800,37.82569632,67.36196319,Non-Avoidance,8.40E-23
-Halorhabdus utahensis DSM 12940,CP001687.1,Euryarchaeota,0.96302328,0.63,3116795,53.72866128,63.0843163,Non-Avoidance,1.05E-10
-Halomicrobium mukohataei DSM 12286,CP001688.1,Euryarchaeota,0.9999999993,0.66,3110487,54.76190476,62.82968718,Non-Avoidance,8.51E-09
-Halogeometricum borinquense DSM 11551,CP001690.1,Euryarchaeota,0.6257510524,0.61,2820544,52.78526505,60.90331687,Non-Avoidance,6.66E-11
-Methanocaldococcus fervens AG86,CP001696.1,Euryarchaeota,7.53E-10,0.32,1485061,32.16531896,65.5044672,Avoidance,5.47E-19
-Methanothermobacter marburgensis str. Marburg,CP001710.1,Euryarchaeota,1.01E-05,0.49,1634695,38.0952381,60.63644289,Avoidance,1.77E-18
-Methanobrevibacter ruminantium M1,CP001719.1,Euryarchaeota,4.99E-08,0.33,2937203,29.82929021,55.17538197,Avoidance,5.07E-19
-Sulfolobus islandicus L.D.8.5,CP001731.1,Crenarchaeota,0.9023487154,0.35,2722032,35.8490566,65.01462463,Non-Avoidance,4.59E-24
-Acidilobus saccharovorans 345-15,CP001742.1,Crenarchaeota,0.5529492411,0.57,1496453,54.17789757,70.87827427,Non-Avoidance,5.82E-19
-Methanocaldococcus vulcanius M7,CP001787.1,Euryarchaeota,0.01086026956,0.31,1746329,32.83917341,65.03992902,Avoidance,1.22E-18
-Sulfolobus solfataricus 98/2,CP001800.1,Crenarchaeota,0.555176247,0.36,2668974,35.17520216,64.96101365,Non-Avoidance,4.53E-24
-Archaeoglobus profundus DSM 5631,CP001857.1,Euryarchaeota,5.51E-06,0.42,1560622,42.63252471,67.10197811,Avoidance,3.48E-22
-Haloterrigena turkmenica DSM 5511,CP001860.1,Euryarchaeota,0.3454364926,0.66,3889038,53.32434861,61.95057949,Non-Avoidance,9.11E-10
-Ferroglobus placidus DSM 10642,CP001899.1,Euryarchaeota,1.01E-10,0.44,2196266,43.48607367,67.52362949,Avoidance,1.61E-22
-Methanocaldococcus sp. FS406-22,CP001901.1,Euryarchaeota,1.74E-09,0.32,1760939,31.67115903,65.29989095,Avoidance,4.94E-19
-Natrialba magadii ATCC 43099,CP001932.1,Euryarchaeota,0.2511150068,0.61,3751858,53.14465409,61.99484093,Non-Avoidance,1.37E-10
-Thermosphaera aggregans DSM 11486,CP001939.1,Crenarchaeota,0.7043112492,0.47,1316595,43.44671202,69.27732942,Non-Avoidance,2.22E-20
-Aciduliprofundum boonei T469,CP001941.1,Euryarchaeota,2.16E-10,0.39,1486778,38.14016173,63.56495468,Avoidance,3.02E-18
-Haloferax volcanii DS2,CP001956.1,Euryarchaeota,0.8891206529,0.67,2847757,54.26774483,61.49512459,Non-Avoidance,1.17E-09
-Methanohalophilus mahii DSM 5219,CP001994.1,Euryarchaeota,0.00354195204,0.43,2012424,35.93890386,58.28109201,Avoidance,1.17E-19
-Methanocaldococcus infernus ME,CP002009.1,Euryarchaeota,5.54E-05,0.34,1328194,32.65947889,65.44871795,Avoidance,2.51E-19
-Staphylothermus hellenicus DSM 12710,CP002051.1,Crenarchaeota,1.76E-05,0.37,1580347,37.06199461,68.74427131,Avoidance,2.05E-20
-Methanococcus voltae A3,CP002057.1,Euryarchaeota,0.01079209825,0.29,1936387,30.63791554,57.42021277,Avoidance,1.11E-15
-Halalkalicoccus jeotgali B3,CP002062.1,Euryarchaeota,0.9953716568,0.65,2809118,54.85175202,63.0802139,Non-Avoidance,5.84E-11
-Methanohalobium evestigatum Z-7303,CP002069.1,Euryarchaeota,0.2947848518,0.37,2242317,34.59119497,58.20535323,Non-Avoidance,1.67E-18
-Ignisphaera aggregans DSM 17230,CP002098.1,Crenarchaeota,0.009274948875,0.36,1875953,34.23180593,67.31490959,Avoidance,4.54E-23
-Vulcanisaeta distributa DSM 14429,CP002100.1,Crenarchaeota,0.0003202198015,0.45,2374137,44.29469901,68.01470588,Avoidance,7.00E-20
-Methanosalsum zhilinae DSM 4017,CP002101.1,Euryarchaeota,0.09305987083,0.39,2138444,33.60287511,58.18688384,Non-Avoidance,5.71E-19
-Methanoplanus petrolearius DSM 11571,CP002117.1,Euryarchaeota,2.24E-07,0.47,2843290,40.02695418,58.53941267,Avoidance,8.14E-18
-Methanothermus fervidus DSM 2088,CP002278.1,Euryarchaeota,3.86E-06,0.32,1243342,31.80592992,64.41807204,Avoidance,1.05E-19
-Desulfurococcus mucosus DSM 2162,CP002363.1,Crenarchaeota,0.9999861125,0.53,1314639,49.3877551,69.92494327,Non-Avoidance,9.02E-22
-Thermococcus barophilus MP,CP002372.1,Euryarchaeota,6.53E-10,0.42,2010078,39.08355795,69.31236284,Avoidance,8.81E-23
-Sulfolobus islandicus REY15A,CP002425.1,Crenarchaeota,0.9394570743,0.35,2522992,35.71428571,65.03576073,Non-Avoidance,4.85E-24
-Sulfolobus islandicus HVE10/4,CP002426.1,Crenarchaeota,0.7483233488,0.35,2655201,35.57951482,65.10078023,Non-Avoidance,4.75E-24
-Vulcanisaeta moutnovskia 768-28,CP002529.1,Crenarchaeota,0.01700629455,0.42,2298983,42.35827664,66.78995523,Avoidance,5.99E-20
-Acidianus hospitalis W1,CP002535.1,Crenarchaeota,6.05E-12,0.34,2137654,32.12039533,64.89361702,Avoidance,6.13E-24
-Methanobacterium sp. AL-21,CP002551.1,Euryarchaeota,0.01167209172,0.36,2583753,32.47978437,58.43694494,Avoidance,2.14E-18
-Methanosaeta concilii GP6,CP002565.1,Euryarchaeota,0.5561139225,0.51,3008626,44.62585034,59.30946833,Non-Avoidance,6.18E-15
-Archaeoglobus veneficus SNP6,CP002588.1,Euryarchaeota,0.0002401175498,0.47,1901943,45.41778976,66.32825719,Avoidance,3.53E-22
-Thermoproteus uzoniensis 768-20,CP002590.1,Crenarchaeota,0.1501404993,0.6,1936063,55.79514825,69.19733411,Non-Avoidance,9.37E-11
-Metallosphaera cuprina Ar-4,CP002656.1,Crenarchaeota,2.13E-07,0.42,1840348,36.79245283,63.53840806,Avoidance,3.40E-22
-Pyrococcus sp. NA2,CP002670.1,Euryarchaeota,5.15E-06,0.43,1861320,42.81221923,69.67346202,Avoidance,4.08E-23
-Methanotorris igneus Kol 5,CP002737.1,Euryarchaeota,1.07E-09,0.32,1854197,31.67115903,64.11202779,Avoidance,6.08E-19
-Methanobacterium sp. SWAN-1,CP002772.1,Euryarchaeota,0.3204222383,0.36,2546541,32.25516622,58.90645023,Non-Avoidance,2.12E-19
-Pyrococcus yayanosii CH1,CP002779.1,Euryarchaeota,0.2742494966,0.52,1716818,50.13477089,69.92060628,Non-Avoidance,1.83E-22
-Methanothermococcus okinawensis IH1,CP002792.1,Euryarchaeota,4.68E-11,0.29,1662525,29.43310658,60.05580597,Avoidance,8.19E-19
-Pyrolobus fumarii 1A,CP002838.1,Crenarchaeota,0.8233311981,0.55,1843267,53.86343217,71.98519384,Non-Avoidance,1.76E-19
-Halopiger xanaduensis SH-6,CP002839.1,Euryarchaeota,0.9999975293,0.66,3668009,54.08805031,62.76481917,Non-Avoidance,6.08E-09
-Methanococcus maripaludis X1,CP002913.1,Euryarchaeota,5.82E-09,0.33,1746697,32.65947889,57.6602335,Avoidance,2.43E-17
-Thermococcus sp. 4557,CP002920.1,Euryarchaeota,0.003385950896,0.56,2011320,49.32614555,69.23076923,Avoidance,2.01E-22
-Haloarcula hispanica ATCC 33960,CP002921.1,Euryarchaeota,1,0.64,2995271,54.44743935,61.85588175,Non-Avoidance,1.48E-08
-Thermococcus sp. AM4,CP002952.1,Euryarchaeota,0.003633027024,0.55,2086428,50.62893082,69.91678726,Avoidance,7.94E-23
-Pyrobaculum sp. 1860,CP003098.1,Crenarchaeota,0.9821868691,0.57,2467972,50.94339623,69.95244272,Non-Avoidance,1.12E-12
-Methanosaeta harundinacea 6Ac,CP003117.1,Euryarchaeota,0.002042334541,0.61,2559043,51.42857143,60.2761657,Avoidance,1.37E-09
-Natronomonas pharaonis DSM 2160,CR936257.1,Euryarchaeota,0.7384089049,0.63,2595221,54.13297394,62.40056153,Non-Avoidance,9.03E-09
-Thermoproteus tenax Kra 1,FN869859.1,Crenarchaeota,0.4591877754,0.55,1841542,51.88208617,69.69560316,Non-Avoidance,2.58E-16
-Haloquadratum walsbyi C23,FR746099.1,Euryarchaeota,0.07548906904,0.48,3148033,44.58049887,59.27802407,Non-Avoidance,1.45E-14
+Species_Name	EMBL	Phylum	Extrinsic p.value	GENOME_GC	GENOME_Size	GC_Core_1.21_CDS%	GC_Rfam_Core%	Avoidance_Group	Intrinsic p.value
+Methanothermobacter thermautotrophicus str. Delta H	AE000666.1	Euryarchaeota	0.04769659133	0.5	1751377	38.18508535	60.74576271	Avoidance	6.92E-18
+Archaeoglobus fulgidus DSM 4304	AE000782.1	Euryarchaeota	0.003795630175	0.49	2178400	45.10332435	66.99805068	Avoidance	1.27E-21
+Halobacterium sp. NRC-1	AE004437.1	Euryarchaeota	0.9994790373	0.68	2014239	55.64892624	62.41088788	Non-Avoidance	1.69E-08
+Sulfolobus solfataricus P2	AE006641.1	Crenarchaeota	0.9918048979	0.36	2992245	35.71428571	64.92767756	Non-Avoidance	4.54E-24
+Methanosarcina mazei Go1	AE008384.1	Euryarchaeota	1.00E-10	0.41	4096345	38.0952381	59.45278358	Avoidance	1.79E-20
+Methanopyrus kandleri AV19	AE009439.1	Euryarchaeota	1.93E-11	0.61	1694969	56.42407907	72.05979336	Avoidance	6.64E-16
+Pyrobaculum aerophilum str. IM2	AE009441.1	Crenarchaeota	0.8939169904	0.51	2222430	46.76549865	68.09304367	Non-Avoidance	1.91E-19
+Pyrococcus furiosus DSM 3638	AE009950.1	Euryarchaeota	1.10E-09	0.41	1908256	40.70080863	69.5262484	Avoidance	9.03E-23
+Methanosarcina acetivorans C2A	AE010299.1	Euryarchaeota	0.04947208988	0.43	5751492	38.67924528	58.83176635	Avoidance	1.30E-19
+Nanoarchaeum equitans Kin4-M	AE017199.1	Nanoarchaeota	0.001327312706	0.32	490885	34.27524856	70.63014919	Avoidance	3.11E-19
+Picrophilus torridus DSM 9790	AE017261.1	Euryarchaeota	0.0006805438987	0.36	1545895	34.59119497	58.88179617	Avoidance	7.27E-19
+uncultured methanogenic archaeon RC-I	AM114193.2	Euryarchaeota	0.005284137155	0.55	3179916	45.12471655	58.75376884	Avoidance	9.52E-17
+Haloquadratum walsbyi	AM180088.1	Euryarchaeota	0.004817656753	0.48	3132494	44.12698413	59.30782459	Avoidance	2.60E-15
+Halobacterium salinarum R1	AM774415.1	Euryarchaeota	0.9998560122	0.68	2000962	55.08241758	62.41088788	Non-Avoidance	2.93E-09
+Thermococcus kodakarensis KOD1	AP006878.1	Euryarchaeota	6.25E-05	0.52	2088737	47.75381851	69.88210075	Avoidance	2.74E-23
+Methanocella paludicola SANAE	AP011532.1	Euryarchaeota	0.7763268357	0.55	2957635	46.04672058	59.50168919	Non-Avoidance	2.67E-13
+Haloarcula marismortui ATCC 43049	AY596297.1	Euryarchaeota	0.9994196012	0.62	3131724	52.42673993	61.6807068	Non-Avoidance	2.99E-12
+Pyrococcus horikoshii OT3	BA000001.2	Euryarchaeota	0.7985392957	0.42	1738505	42.18328841	69.74222222	Non-Avoidance	2.26E-23
+Aeropyrum pernix K1	BA000002.3	Crenarchaeota	0.9396456519	0.56	1669696	55.70530099	69.53078598	Non-Avoidance	1.11E-17
+Thermoplasma volcanium GSS1	BA000011.4	Euryarchaeota	1.22E-12	0.4	1584804	37.42138365	58.82859604	Avoidance	4.81E-19
+Sulfolobus tokodaii str. 7	BA000023.2	Crenarchaeota	0.6986428952	0.33	2694756	33.19856244	65.42625169	Non-Avoidance	9.98E-23
+Methanococcus maripaludis	BX950229.1	Euryarchaeota	1.04E-07	0.33	1661137	32.92902066	57.66050584	Avoidance	5.98E-17
+Sulfolobus acidocaldarius DSM 639	CP000077.1	Crenarchaeota	0.4346260025	0.37	2225959	35.13027853	64.35452794	Non-Avoidance	7.71E-24
+Methanosarcina barkeri str. Fusaro	CP000099.1	Euryarchaeota	0.0005102005933	0.39	4837408	36.79245283	58.34135078	Avoidance	7.24E-21
+Methanosphaera stadtmanae DSM 3091	CP000102.1	Euryarchaeota	0.001476864996	0.28	1767403	28.70748299	53.34970969	Avoidance	3.70E-17
+Methanospirillum hungatei JF-1	CP000254.1	Euryarchaeota	0.00162489435	0.45	3544738	43.03683738	57.85161584	Avoidance	3.35E-14
+Methanococcoides burtonii DSM 6242	CP000300.1	Euryarchaeota	0.8457713549	0.41	2575032	35.93890386	56.64236533	Non-Avoidance	4.94E-20
+Methanosaeta thermophila PT	CP000477.1	Euryarchaeota	0.6767192426	0.54	1879471	47.52920036	60.71568244	Non-Avoidance	2.82E-16
+Hyperthermus butylicus DSM 5456	CP000493.1	Crenarchaeota	0.005952095362	0.54	1667163	52.33602875	71.92788815	Avoidance	4.98E-20
+Pyrobaculum islandicum DSM 4184	CP000504.1	Crenarchaeota	0.1341090981	0.5	1826402	42.22821204	68.94943544	Non-Avoidance	4.81E-17
+Thermofilum pendens Hrk 5	CP000505.1	Crenarchaeota	6.95E-07	0.58	1781889	50.80862534	68.59424147	Avoidance	1.62E-13
+Methanocorpusculum labreanum Z	CP000559.1	Euryarchaeota	6.43E-06	0.5	1804962	42.00359389	56.85377018	Avoidance	2.91E-14
+Pyrobaculum calidifontis JCM 11548	CP000561.1	Crenarchaeota	0.1327634458	0.57	2009313	49.569161	68.45823096	Non-Avoidance	7.29E-12
+Methanoculleus marisnigri JR1	CP000562.1	Euryarchaeota	5.63E-11	0.62	2478101	46.63072776	60.43707611	Avoidance	2.56E-15
+Staphylothermus marinus F1	CP000575.1	Crenarchaeota	1.36E-08	0.36	1570485	36.61275831	68.42201835	Avoidance	2.11E-20
+Methanococcus maripaludis C5	CP000609.1	Euryarchaeota	1.19E-06	0.33	1780761	33.19856244	57.52516011	Avoidance	2.66E-17
+Pyrobaculum arsenaticum DSM 13514	CP000660.1	Crenarchaeota	8.65E-05	0.55	2121076	50.26954178	67.93960924	Avoidance	2.97E-18
+Methanobrevibacter smithii ATCC 35061	CP000678.1	Euryarchaeota	0.1528672071	0.31	1853160	27.98742138	54.17867435	Non-Avoidance	4.10E-18
+Metallosphaera sedula DSM 5348	CP000682.1	Crenarchaeota	0.991793748	0.46	2191517	39.57771788	64.80097341	Non-Avoidance	1.90E-22
+Methanococcus vannielii SB	CP000742.1	Euryarchaeota	0.0001730436169	0.31	1720048	31.94070081	57.66109785	Avoidance	1.89E-16
+Methanococcus aeolicus Nankai-3	CP000743.1	Euryarchaeota	4.15E-15	0.3	1569500	29.38005391	57.07373272	Avoidance	2.56E-17
+Methanococcus maripaludis C7	CP000745.1	Euryarchaeota	5.78E-05	0.33	1772694	33.33333333	57.96997856	Avoidance	5.91E-17
+Methanoregula boonei 6A8	CP000780.1	Euryarchaeota	0.0008896518247	0.55	2542943	47.52920036	58.92748324	Avoidance	3.66E-12
+Ignicoccus hospitalis KIN4/I	CP000816.1	Crenarchaeota	0.3171790531	0.57	1297538	54.94159928	71.63312694	Non-Avoidance	1.13E-16
+Caldivirga maquilingensis IC-167	CP000852.1	Crenarchaeota	1.14E-07	0.43	2077567	44.78885894	67.66241905	Avoidance	5.57E-20
+Thermococcus onnurineus NA1	CP000855.1	Euryarchaeota	0.002593606167	0.51	1847607	48.15813118	69.297933	Avoidance	4.34E-23
+Nitrosopumilus maritimus SCM1	CP000866.1	Thaumarchaeota	0.3345152408	0.34	1645259	34.23180593	55.66172957	Non-Avoidance	1.17E-16
+Methanococcus maripaludis C6	CP000867.1	Euryarchaeota	0.0006960656051	0.33	1744193	33.37825696	57.90852787	Avoidance	7.45E-17
+Candidatus Korarchaeum cryptofilum OPF8	CP000968.1	Korarchaeota	0.001125343037	0.49	1590757	48.58058608	69.01017576	Avoidance	8.33E-22
+Thermoproteus neutrophilus V24Sta	CP001014.1	Crenarchaeota	0.1671174971	0.6	1769823	52.96495957	68.67924528	Non-Avoidance	5.51E-17
+Desulfurococcus kamchatkensis 1221n	CP001140.1	Crenarchaeota	0.02011934342	0.45	1365223	43.44671202	68.78185106	Avoidance	5.54E-23
+Methanosphaerula palustris E1-9c	CP001338.1	Euryarchaeota	0.03095934201	0.55	2922917	45.73225517	58.16152828	Avoidance	3.39E-15
+Halorubrum lacusprofundi ATCC 49239	CP001365.1	Euryarchaeota	0.9999435926	0.67	2735295	55.1212938	62.03128348	Non-Avoidance	4.70E-08
+Halorubrum lacusprofundi ATCC 49239	CP001366.1	Euryarchaeota	0.7983707322	0.57	525943	50.34013605	57.93269231	Non-Avoidance	0.1051925
+Thermococcus gammatolerans EJ3	CP001398.1	Euryarchaeota	9.20E-07	0.54	2045438	49.95507637	69.85533454	Avoidance	6.27E-23
+Sulfolobus islandicus L.S.2.15	CP001399.1	Crenarchaeota	0.9445388288	0.35	2736272	35.55555556	65.06827048	Non-Avoidance	5.13E-24
+Sulfolobus islandicus M.14.25	CP001400.1	Crenarchaeota	0.8970743949	0.35	2608832	35.80413297	65.01950585	Non-Avoidance	4.69E-24
+Sulfolobus islandicus M.16.27	CP001401.1	Crenarchaeota	0.8861741879	0.35	2692402	35.71428571	65.0520156	Non-Avoidance	4.61E-24
+Sulfolobus islandicus M.16.4	CP001402.1	Crenarchaeota	0.9437703281	0.35	2586647	35.80413297	64.97074122	Non-Avoidance	4.69E-24
+Sulfolobus islandicus Y.G.57.14	CP001403.1	Crenarchaeota	0.9085125943	0.35	2702058	35.62443845	65.06827048	Non-Avoidance	4.74E-24
+Sulfolobus islandicus Y.N.15.51	CP001404.1	Crenarchaeota	0.9811492236	0.35	2812165	35.62443845	65.00325098	Non-Avoidance	4.68E-24
+Thermococcus sibiricus MM 739	CP001463.1	Euryarchaeota	0.1815090642	0.4	1845800	37.82569632	67.36196319	Non-Avoidance	8.40E-23
+Halorhabdus utahensis DSM 12940	CP001687.1	Euryarchaeota	0.96302328	0.63	3116795	53.72866128	63.0843163	Non-Avoidance	1.05E-10
+Halomicrobium mukohataei DSM 12286	CP001688.1	Euryarchaeota	0.9999999993	0.66	3110487	54.76190476	62.82968718	Non-Avoidance	8.51E-09
+Halogeometricum borinquense DSM 11551	CP001690.1	Euryarchaeota	0.6257510524	0.61	2820544	52.78526505	60.90331687	Non-Avoidance	6.66E-11
+Methanocaldococcus fervens AG86	CP001696.1	Euryarchaeota	7.53E-10	0.32	1485061	32.16531896	65.5044672	Avoidance	5.47E-19
+Methanothermobacter marburgensis str. Marburg	CP001710.1	Euryarchaeota	1.01E-05	0.49	1634695	38.0952381	60.63644289	Avoidance	1.77E-18
+Methanobrevibacter ruminantium M1	CP001719.1	Euryarchaeota	4.99E-08	0.33	2937203	29.82929021	55.17538197	Avoidance	5.07E-19
+Sulfolobus islandicus L.D.8.5	CP001731.1	Crenarchaeota	0.9023487154	0.35	2722032	35.8490566	65.01462463	Non-Avoidance	4.59E-24
+Acidilobus saccharovorans 345-15	CP001742.1	Crenarchaeota	0.5529492411	0.57	1496453	54.17789757	70.87827427	Non-Avoidance	5.82E-19
+Methanocaldococcus vulcanius M7	CP001787.1	Euryarchaeota	0.01086026956	0.31	1746329	32.83917341	65.03992902	Avoidance	1.22E-18
+Sulfolobus solfataricus 98/2	CP001800.1	Crenarchaeota	0.555176247	0.36	2668974	35.17520216	64.96101365	Non-Avoidance	4.53E-24
+Archaeoglobus profundus DSM 5631	CP001857.1	Euryarchaeota	5.51E-06	0.42	1560622	42.63252471	67.10197811	Avoidance	3.48E-22
+Haloterrigena turkmenica DSM 5511	CP001860.1	Euryarchaeota	0.3454364926	0.66	3889038	53.32434861	61.95057949	Non-Avoidance	9.11E-10
+Ferroglobus placidus DSM 10642	CP001899.1	Euryarchaeota	1.01E-10	0.44	2196266	43.48607367	67.52362949	Avoidance	1.61E-22
+Methanocaldococcus sp. FS406-22	CP001901.1	Euryarchaeota	1.74E-09	0.32	1760939	31.67115903	65.29989095	Avoidance	4.94E-19
+Natrialba magadii ATCC 43099	CP001932.1	Euryarchaeota	0.2511150068	0.61	3751858	53.14465409	61.99484093	Non-Avoidance	1.37E-10
+Thermosphaera aggregans DSM 11486	CP001939.1	Crenarchaeota	0.7043112492	0.47	1316595	43.44671202	69.27732942	Non-Avoidance	2.22E-20
+Aciduliprofundum boonei T469	CP001941.1	Euryarchaeota	2.16E-10	0.39	1486778	38.14016173	63.56495468	Avoidance	3.02E-18
+Haloferax volcanii DS2	CP001956.1	Euryarchaeota	0.8891206529	0.67	2847757	54.26774483	61.49512459	Non-Avoidance	1.17E-09
+Methanohalophilus mahii DSM 5219	CP001994.1	Euryarchaeota	0.00354195204	0.43	2012424	35.93890386	58.28109201	Avoidance	1.17E-19
+Methanocaldococcus infernus ME	CP002009.1	Euryarchaeota	5.54E-05	0.34	1328194	32.65947889	65.44871795	Avoidance	2.51E-19
+Staphylothermus hellenicus DSM 12710	CP002051.1	Crenarchaeota	1.76E-05	0.37	1580347	37.06199461	68.74427131	Avoidance	2.05E-20
+Methanococcus voltae A3	CP002057.1	Euryarchaeota	0.01079209825	0.29	1936387	30.63791554	57.42021277	Avoidance	1.11E-15
+Halalkalicoccus jeotgali B3	CP002062.1	Euryarchaeota	0.9953716568	0.65	2809118	54.85175202	63.0802139	Non-Avoidance	5.84E-11
+Methanohalobium evestigatum Z-7303	CP002069.1	Euryarchaeota	0.2947848518	0.37	2242317	34.59119497	58.20535323	Non-Avoidance	1.67E-18
+Ignisphaera aggregans DSM 17230	CP002098.1	Crenarchaeota	0.009274948875	0.36	1875953	34.23180593	67.31490959	Avoidance	4.54E-23
+Vulcanisaeta distributa DSM 14429	CP002100.1	Crenarchaeota	0.0003202198015	0.45	2374137	44.29469901	68.01470588	Avoidance	7.00E-20
+Methanosalsum zhilinae DSM 4017	CP002101.1	Euryarchaeota	0.09305987083	0.39	2138444	33.60287511	58.18688384	Non-Avoidance	5.71E-19
+Methanoplanus petrolearius DSM 11571	CP002117.1	Euryarchaeota	2.24E-07	0.47	2843290	40.02695418	58.53941267	Avoidance	8.14E-18
+Methanothermus fervidus DSM 2088	CP002278.1	Euryarchaeota	3.86E-06	0.32	1243342	31.80592992	64.41807204	Avoidance	1.05E-19
+Desulfurococcus mucosus DSM 2162	CP002363.1	Crenarchaeota	0.9999861125	0.53	1314639	49.3877551	69.92494327	Non-Avoidance	9.02E-22
+Thermococcus barophilus MP	CP002372.1	Euryarchaeota	6.53E-10	0.42	2010078	39.08355795	69.31236284	Avoidance	8.81E-23
+Sulfolobus islandicus REY15A	CP002425.1	Crenarchaeota	0.9394570743	0.35	2522992	35.71428571	65.03576073	Non-Avoidance	4.85E-24
+Sulfolobus islandicus HVE10/4	CP002426.1	Crenarchaeota	0.7483233488	0.35	2655201	35.57951482	65.10078023	Non-Avoidance	4.75E-24
+Vulcanisaeta moutnovskia 768-28	CP002529.1	Crenarchaeota	0.01700629455	0.42	2298983	42.35827664	66.78995523	Avoidance	5.99E-20
+Acidianus hospitalis W1	CP002535.1	Crenarchaeota	6.05E-12	0.34	2137654	32.12039533	64.89361702	Avoidance	6.13E-24
+Methanobacterium sp. AL-21	CP002551.1	Euryarchaeota	0.01167209172	0.36	2583753	32.47978437	58.43694494	Avoidance	2.14E-18
+Methanosaeta concilii GP6	CP002565.1	Euryarchaeota	0.5561139225	0.51	3008626	44.62585034	59.30946833	Non-Avoidance	6.18E-15
+Archaeoglobus veneficus SNP6	CP002588.1	Euryarchaeota	0.0002401175498	0.47	1901943	45.41778976	66.32825719	Avoidance	3.53E-22
+Thermoproteus uzoniensis 768-20	CP002590.1	Crenarchaeota	0.1501404993	0.6	1936063	55.79514825	69.19733411	Non-Avoidance	9.37E-11
+Metallosphaera cuprina Ar-4	CP002656.1	Crenarchaeota	2.13E-07	0.42	1840348	36.79245283	63.53840806	Avoidance	3.40E-22
+Pyrococcus sp. NA2	CP002670.1	Euryarchaeota	5.15E-06	0.43	1861320	42.81221923	69.67346202	Avoidance	4.08E-23
+Methanotorris igneus Kol 5	CP002737.1	Euryarchaeota	1.07E-09	0.32	1854197	31.67115903	64.11202779	Avoidance	6.08E-19
+Methanobacterium sp. SWAN-1	CP002772.1	Euryarchaeota	0.3204222383	0.36	2546541	32.25516622	58.90645023	Non-Avoidance	2.12E-19
+Pyrococcus yayanosii CH1	CP002779.1	Euryarchaeota	0.2742494966	0.52	1716818	50.13477089	69.92060628	Non-Avoidance	1.83E-22
+Methanothermococcus okinawensis IH1	CP002792.1	Euryarchaeota	4.68E-11	0.29	1662525	29.43310658	60.05580597	Avoidance	8.19E-19
+Pyrolobus fumarii 1A	CP002838.1	Crenarchaeota	0.8233311981	0.55	1843267	53.86343217	71.98519384	Non-Avoidance	1.76E-19
+Halopiger xanaduensis SH-6	CP002839.1	Euryarchaeota	0.9999975293	0.66	3668009	54.08805031	62.76481917	Non-Avoidance	6.08E-09
+Methanococcus maripaludis X1	CP002913.1	Euryarchaeota	5.82E-09	0.33	1746697	32.65947889	57.6602335	Avoidance	2.43E-17
+Thermococcus sp. 4557	CP002920.1	Euryarchaeota	0.003385950896	0.56	2011320	49.32614555	69.23076923	Avoidance	2.01E-22
+Haloarcula hispanica ATCC 33960	CP002921.1	Euryarchaeota	1	0.64	2995271	54.44743935	61.85588175	Non-Avoidance	1.48E-08
+Thermococcus sp. AM4	CP002952.1	Euryarchaeota	0.003633027024	0.55	2086428	50.62893082	69.91678726	Avoidance	7.94E-23
+Pyrobaculum sp. 1860	CP003098.1	Crenarchaeota	0.9821868691	0.57	2467972	50.94339623	69.95244272	Non-Avoidance	1.12E-12
+Methanosaeta harundinacea 6Ac	CP003117.1	Euryarchaeota	0.002042334541	0.61	2559043	51.42857143	60.2761657	Avoidance	1.37E-09
+Natronomonas pharaonis DSM 2160	CR936257.1	Euryarchaeota	0.7384089049	0.63	2595221	54.13297394	62.40056153	Non-Avoidance	9.03E-09
+Thermoproteus tenax Kra 1	FN869859.1	Crenarchaeota	0.4591877754	0.55	1841542	51.88208617	69.69560316	Non-Avoidance	2.58E-16
+Haloquadratum walsbyi C23	FR746099.1	Euryarchaeota	0.07548906904	0.48	3148033	44.58049887	59.27802407	Non-Avoidance	1.45E-14

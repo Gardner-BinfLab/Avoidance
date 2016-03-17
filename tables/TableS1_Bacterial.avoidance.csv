@@ -1,4 +1,4 @@
-Species_Name	EMBL	Phylum	p.value	GENOME_GC	GENOME_Size	GC_Core_1.21_CDS%	GC_Rfam_Core%	Avoidance_Group	Intrinsic
+Species_Name	EMBL	Phylum	Extrinsic p.value	GENOME_GC	GENOME_Size	GC_Core_1.21_CDS%	GC_Rfam_Core%	Avoidance_Group	Intrinsic p.value
 Helicobacter pylori 26695	AE000511.1	Proteobacteria	5.26E-07	0.39	1667867	33.5049335	52.16231663	Avoidance	1.16E-20
 Thermotoga maritima MSB8	AE000512.1	Thermotogae	8.49E-08	0.46	1860725	43.5006435	64.63454075	Avoidance	4.25E-24
 Deinococcus radiodurans R1	AE000513.1	Deinococcus-Thermus	0.002754268596	0.67	2648638	55.04075504	58.55417645	Avoidance	0.009949518
