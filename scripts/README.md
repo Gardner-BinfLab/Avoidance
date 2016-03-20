@@ -7,4 +7,4 @@ mRNA_Create.py : GFP mRNA mutation script.
 
 ### Avoidance R scripts:
 
-R scripts for each figure can be found. R Data Files in data directory contains relevant workspace images.  
+R scripts for each figure can be found. The R data files in data directory contains relevant workspace images.  
