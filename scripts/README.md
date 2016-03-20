@@ -1,4 +1,4 @@
-### Avoidance python scripts:
+### Avoidance Python scripts:
 
 CAI_Calculator.py : Codon adapdation index calculator.  
 biof_converter.py : Format converter.  
