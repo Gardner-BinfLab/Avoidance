@@ -41,8 +41,9 @@ GFP_ggboxplot_df=data.frame(Type=rep(names(GFP_boxplot_df),each=8),
 
 
 plot.boxplot=ggplot(GFP_ggboxplot_df,aes(x=reorder(Type,Fluorescence,FUN=median),y=Fluorescence)) + geom_boxplot(aes(fill=Type)) + scale_fill_manual(name="",values=Colors) + xlab("") + theme(axis.title=element_text(size=25)) + theme_bw(base_size = 25) + theme(legend.text=element_text(size=16),legend.key.size=unit(3,"lines"),legend.title=element_text(size=16),axis.text.x=element_blank())
-save_plot("figure_boxplot.pdf",plot.boxplot,base_height = 10 ,base_aspect_ratio = 1.3)
+save_plot("Figure_2.Supp.1.pdf",plot.boxplot,base_height = 10 ,base_aspect_ratio = 1.3)
 
 
+save.image(file="Figure_2.Supp.1.RData")
 
 

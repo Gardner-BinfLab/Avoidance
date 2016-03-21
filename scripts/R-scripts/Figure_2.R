@@ -5,9 +5,11 @@ require("plotrix")
 
 
 #antisense figure 4, GFP pilot study
-GFP_df=read.table("Table3_GFP.csv",header = T)
-kudla_raw=read.table("GFP.supp.csv",header=T)
+GFP_df=read.table("~/projects/antisense/Avoidance_Git/data/TableS3_GFP.csv",header = T)
 
+
+
+kudla_raw=read.table("~/projects/antisense/kudla/Kudla_window21/ncRNAvsKudlaGFP.0.21_AM946981.2_200Shuffled_Native/GFP.0.21.binding.folding.Energies.Folding37.csv",header=T)
 
 
 

@@ -106,6 +106,7 @@ mtext("Binding Energy (kcal/mol)",side=1,cex=1.8,outer = T,las=1,line=1)
 
 dev.off()
 
+save.image(file="Figure_3.Supp.1.RData")
 
 
 

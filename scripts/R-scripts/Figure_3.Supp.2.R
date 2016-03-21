@@ -61,3 +61,6 @@ mtext("5' UTR regions",side=3,outer = F,line=-0.5,cex=1.8,las=0)
 
 
 dev.off()
+
+save.image(file="Figure_3.Supp.2.RData")
+
