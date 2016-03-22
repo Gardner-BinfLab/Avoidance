@@ -172,6 +172,7 @@ mtext("E",side=3,adj=-0.04,font=2,cex=1.8)
 
 dev.off()
 
+save.image(file="Figure_2.RData")
 
 
 
