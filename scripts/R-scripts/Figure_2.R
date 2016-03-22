@@ -5,7 +5,7 @@ require("plotrix")
 
 
 #antisense figure 4, GFP pilot study
-GFP_df=read.table("~/projects/antisense/Avoidance_Git/data/TableS3_GFP.csv",header = T)
+GFP_df=read.table("~/projects/antisense/Avoidance_Git/files/Supplementary_file_2A.csv",header = T)
 
 
 
@@ -121,6 +121,9 @@ text(1,-0.3,expression("*"*italic(P)*" < 0.05"),cex=1.5)
 
 mtext("Correlation Coefficient",side=4,line=5,las=0,cex=1.5,adj=0.4)
 
+#par(fig = c(0.05,0.9,0.55,0.7),new=T) #c(bottom, left, top, right) 
+#image(cor.matrix.normalized[,ncol(cor.matrix.normalized):1],col=two.colors(n=14,"cadetblue","firebrick","coral1"),axes=F)
+
 
 par(mar=c(1,1,1,1),fig = c(0.3,1,0.65,0.95),xpd=F)
 
@@ -130,21 +133,21 @@ image.plot(cor.matrix,col=two.colors(n=12,"cadetblue","firebrick","coral1"),axes
 cex.mtext=1.8
 
 par(mar=c(1,1,2,2),fig=c(0,0.3,0.15,0.70),new=T) #c(bottom, left, top, right)
-plot_generic_scatterplot_GFP(GFP_df$CAI,GFP_df$GFP,GFP_df$Color,c(0.6,0.85))
+plot_generic_scatterplot_GFP(GFP_df$CAI,GFP_df$GFP.Fluorescence,GFP_df$Color,c(0.6,0.85))
 mtext("B",side=3,adj=0,font=2,cex=1.8)
 mtext("CAI",side = 1,outer=F,line=3,cex=cex.mtext)
 mtext(expression("log"[10]*"(fluorescence)"),side=2,las=0,line=3,cex=cex.mtext,outer=F)
 legend("bottomright",expression("R"[s]*"=0.29"),bty="n",cex=1.8)
 
 par(fig=c(0.3,0.6,0.15,0.70),new=T)
-plot_generic_scatterplot_GFP(GFP_df$Folding_En,GFP_df$GFP,GFP_df$Color,c(-15,1))
+plot_generic_scatterplot_GFP(GFP_df$Folding_En,GFP_df$GFP.Fluorescence,GFP_df$Color,c(-15,1))
 mtext("C",side=3,adj=0,font=2,cex=1.8)
 mtext("Folding Energy (kcal/mol)",side = 1,outer=F,line=3,cex=cex.mtext)
 legend("bottomright",expression("R"[s]*"=0.34"),bty="n",cex=1.8)
 
 
 par(fig=c(0.6,0.9,0.15,0.70),new=T)
-plot_generic_scatterplot_GFP(GFP_df$Binding_En,GFP_df$GFP,GFP_df$Color,c(-350,-100))
+plot_generic_scatterplot_GFP(GFP_df$Binding_En,GFP_df$GFP.Fluorescence,GFP_df$Color,c(-350,-100))
 mtext("D",side=3,adj=0,font=2,cex=1.8)
 mtext("Binding Energy (kcal/mol)",side = 1,outer=F,line=3,cex=cex.mtext)
 legend("bottomright",expression("R"[s]*"=0.56"),bty="n",cex=1.8)
