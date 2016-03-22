@@ -1,4 +1,4 @@
-## Supplementary Tables
+## Supplementary Files
 
 Supplementary_file_1A.csv : Avoidance predictions of bacterial strains.  
 Supplementary_file_1B.csv : Avoidance predictions of archaeal strains.  
