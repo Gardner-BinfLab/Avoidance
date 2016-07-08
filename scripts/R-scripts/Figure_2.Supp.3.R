@@ -1,4 +1,3 @@
-require("np")
 require("car")
 require("RColorBrewer")
 
