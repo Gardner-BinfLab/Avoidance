@@ -1,8 +1,8 @@
-Datasets vs Spearman's Correlations	Avoidance (Binding energy)	5` end secondary structure (Folding energy)	Codon selection (CAI)	mRNA abundance	Strain	n	Reference	Pubmed	Data Source
-Extreme GFP mRNAs	0.56 (6.947e-06)	0.34 (0.00601)	0.29 (0.01649)	0.73 (0.003161)	E. coli	52(13)	This manuscript		
-GFP mRNAs	0.65 (1.695031e-20)	0.62 (5.732636e-18)	0.02 (0.4016471)	0.53 (3.03e-07)	E. coli	154	Kudla et. al 2009	http://www.ncbi.nlm.nih.gov/pubmed/19359587	personal communication
-sfGFP-mCherry	0.11 (3.17e-41)	0.26 (3.8e-225)	-0.2 (1)	0.27 (2.2e-16)	E. coli	14234	Goodman et. al 2013	http://www.ncbi.nlm.nih.gov/pubmed/24072823	Table S1
-Microarray-LC-MS	0.11 (0.0102)	-0.05 (0.85)	0.45 (2.2e-16)	0.69 (2.2e-16)	E. coli	389	Laurent et. al 2010	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3113407	Supplementary data set
-Microarray-APEX(MS)	0.1123 (0.01038)	-0.0414 (0.8)	0.535 (2.2e-16)	0.68 (2.2e-16)	E. coli	3301	Lu et. al 2007	http://www.ncbi.nlm.nih.gov/pubmed/17187058	Supplementary data set S2
-Microarray-LC-MS	0.161 (1.3e-12)	0.11 (4.8e-07)	0.23 (2.2e-16)	0.74 (2.2e-16)	P. aeruginosa	5479	Kwon et. al 2014	http://www.ncbi.nlm.nih.gov/pubmed/24742327	Table S7
-Microarray-LC-MS	0.17 (8.012e-10)	0.07 (0.0045)	0.17 (1.364e-09)	0.69 (2.2e-16)	P. aeruginosa	1148	Laurent et. al 2010	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3113407	Supplementary data set
+Datasets vs Spearman's Correlations,Avoidance (Binding energy),5` end secondary structure (Folding energy),Codon selection (CAI),mRNA abundance,Strain,n,Reference,Pubmed,Data Source,access URL
+Extreme GFP mRNAs,0.56 (6.947e-06),0.34 (0.00601),0.29 (0.01649),0.73 (0.003161),E. coli,52(13),This manuscript,,,https://github.com/UCanCompBio/Avoidance/tree/master/files
+GFP mRNAs,0.65 (1.695031e-20),0.62 (5.732636e-18),0.02 (0.4016471),0.53 (3.03e-07),E. coli,154,Kudla et. al 2009,http://www.ncbi.nlm.nih.gov/pubmed/19359587,personal communication,NA
+sfGFP-mCherry,0.11 (3.17e-41),0.26 (3.8e-225),-0.2 (1),0.27 (2.2e-16),E. coli,14234,Goodman et. al 2013,http://www.ncbi.nlm.nih.gov/pubmed/24072823,Table S1,http://science.sciencemag.org/highwire/filestream/595282/field_highwire_adjunct_files/0/1241934tableS1.csv
+Microarray-LC-MS,0.11 (0.0102),-0.05 (0.85),0.45 (2.2e-16),0.69 (2.2e-16),E. coli,389,Laurent et. al 2010,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3113407,Supplementary data set,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3113407/bin/NIHMS265829-supplement-Supplemental_Data_Set.xls
+Microarray-APEX(MS),0.1123 (0.01038),-0.0414 (0.8),0.535 (2.2e-16),0.68 (2.2e-16),E. coli,3301,Lu et. al 2007,http://www.ncbi.nlm.nih.gov/pubmed/17187058,Supplementary data set S2,http://www.nature.com/nbt/journal/v25/n1/extref/nbt1270-S2.xls
+Microarray-LC-MS,0.161 (1.3e-12),0.11 (4.8e-07),0.23 (2.2e-16),0.74 (2.2e-16),P. aeruginosa,5479,Kwon et. al 2014,http://www.ncbi.nlm.nih.gov/pubmed/24742327,Table S7,http://pubs.acs.org/doi/suppl/10.1021/pr4011684
+Microarray-LC-MS,0.17 (8.012e-10),0.07 (0.0045),0.17 (1.364e-09),0.69 (2.2e-16),P. aeruginosa,1148,Laurent et. al 2010,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3113407,Supplementary data set,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3113407/bin/NIHMS265829-supplement-Supplemental_Data_Set.xls
