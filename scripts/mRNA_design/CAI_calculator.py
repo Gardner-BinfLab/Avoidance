@@ -27,8 +27,10 @@ def codon_count(sequence):
 
 
 
-def Nucleic_Acid_Detect(strg, search=re.compile(r'[^a|t|g|c|A|T|G|C]').search):
+def Nucleic_Acid_Detect(strg, search=re.compile(r'[^a|t|g|c]',re.I).search):
     return not bool(search(strg))
+#sapka isareti hemen [ karakterden sonra konursa, bunu bulma demek oluyormus.#
+
 
 
 def Exception_Fixer(file_argument):
@@ -55,7 +57,7 @@ def main():
     
     if args.codoncount is True:
         Codons=Counter()
-        for sequence in SeqIO.parse(args.mRNAfasta,"fasta"):
+        for sequence in SeqIO.parse(args.mrna,"fasta"):
             Codons=Codons + codon_count(str(sequence.seq))
         for key,value in Codons.iteritems():
             try:
@@ -68,13 +70,13 @@ def main():
 
     try:
         CDS_CAI_Index=CodonUsage.CodonAdaptationIndex() #init CAI object
-        CDS_CAI_Index.generate_index(args.mRNAfasta) #read mRNA file and create CAI index
+        CDS_CAI_Index.generate_index(args.mrna) #read mRNA file and create CAI index
         #CDS_CAI_Index.print_index()
         if args.othersfasta is not None:
             try:
                 CAI_print(args.othersfasta,CDS_CAI_Index)
             except TypeError:
-                output_tmp_file_name=Exception_Fixer(args.othersfasta)
+                output_tmp_file_name=Exception_Fixer(args.samplerna)
                 CAI_print(output_tmp_file_name,CDS_CAI_Index)
                 #print "Exception in othersfasta file which probably have wrong codons or codon numbers..."
                 #raise
@@ -91,14 +93,14 @@ def main():
             CAI_print(args.mRNAfasta,CDS_CAI_Index)
     
     except:
-        output_tmp_file_name=Exception_Fixer(args.mRNAfasta)
+        output_tmp_file_name=Exception_Fixer(args.mrna)
         CDS_CAI_Index=CodonUsage.CodonAdaptationIndex() #init CAI object
         CDS_CAI_Index.generate_index(output_tmp_file_name) #read mRNA file and create CAI index
         if args.othersfasta is not None:
             try:
                 CAI_print(args.othersfasta,CDS_CAI_Index)
             except TypeError:
-                output_tmp_file_name=Exception_Fixer(args.othersfasta)
+                output_tmp_file_name=Exception_Fixer(args.samplerna)
                 CAI_print(output_tmp_file_name,CDS_CAI_Index)
                 #print "Exception in othersfasta file which probably have wrong codons or codon numbers..."
                 #raise
@@ -121,9 +123,9 @@ def main():
 
 if __name__ == '__main__':
     Argument_Parser=argparse.ArgumentParser(prog="CAI_Calculator.py")
-    Argument_Parser.add_argument('-mRNAfasta',type=str,help="Reference mRNAs file to calculate CAI, (training dataset)",required=True)
-    Argument_Parser.add_argument('-othersfasta',type=str,help="FASTA of other RNAs")
-    Argument_Parser.add_argument('-codoncount',action='store_true',help="Only codon count")
+    Argument_Parser.add_argument('-mrna',type=str,help="Reference mRNAs file to calculate CAI, (training dataset).",required=True)
+    Argument_Parser.add_argument('-samplerna',type=str,help="A list of RNA to calculate codon index.")
+    Argument_Parser.add_argument('-codoncount',action='store_true',help="Only print codon counts.")
     args=Argument_Parser.parse_args()
     main()
     pass
