@@ -17,10 +17,10 @@ CAI_calculator.py -mrna $2 -c > core_codon_frequency_table.csv #calculate the fr
 
 
 #calculate the avoidance table, this may take time. increase the number of CPUs, the default is 2
-mkdir ./avoidance_scores
+mkdir -p ./avoidance_scores
 cd ./avoidance_scores
 
-RNAup_avoidance_calculator.py -mrna ../possible_leading_sequences.fasta -ncrna ../$3 -parallel 2 #calculate the avoidance scores based on ncRNAs
+../RNAup_avoidance_calculator.py -mrna ../possible_leading_sequences.fasta -ncrna ../$3 -parallel 2 #calculate the avoidance scores based on ncRNAs
 
 
 cat ../possible_leading_sequences.fasta | gawk 'match($0,/>(.*)/,m){print m[1]}' | while read i;

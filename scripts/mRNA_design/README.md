@@ -8,3 +8,7 @@ To install required packages:
 pip install biopython  
 pip install joblib  
 
+Add 'mRNA_design' directory to your path, in your ~/.bashrc file:
+
+export PATH=$PATH:/path/to/mRNA_design
+
