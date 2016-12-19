@@ -5,8 +5,8 @@ How to use;
 
 To install required packages:
 
-pip install biopython  #this is biopython, you need this to calculate codon index and read bio-files etc.
-pip install joblib  #this is a parallelization library, you need this to run RNAup jobs in parallel.
+pip install biopython  #this is biopython, you need this to calculate codon index and read bio-files etc.  
+pip install joblib  #this is a parallelization library, you need this to run RNAup jobs in parallel.  
 
 Optional:
 Add 'mRNA_design' directory to your path, in your ~/.bashrc file:
