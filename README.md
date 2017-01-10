@@ -20,3 +20,7 @@ The data directory contains the R data files of the plots.
 #### Contact:  
 Sinan U. Umu sinanugur@gmail.com, sinan.umu@pg.canterbury.ac.nz  
 Paul P. Gardner paul.gardner@canterbury.ac.nz, ppgardner@gmail.com  
+
+
+#### Citiation:
+https://elifesciences.org/content/5/e13479
