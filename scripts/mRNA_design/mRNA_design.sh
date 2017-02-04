@@ -7,7 +7,7 @@
 # $4 core protein coding genes or protein coding genes of a selected species. (This is for RNA codon distribution. Not necessarily core genes)
 # $5 the number of sequences to be created. (If not selected, the default is 100 per the line in avoidance table.)
 
-if [ $# -ge 3 ] && [ -f $1 ] && [ -f $2 ] && [ -f $3 ]; then
+if [ $# -ge 4 ] && [ -f $1 ] && [ -f $2 ] && [ -f $3 ] && [ -f $4 ]; then
 
 cat $1 | awk '{if(/>/) print; else print substr($0,1,21)}' > $1.1.21.fasta # slice out the avoidance region
 
