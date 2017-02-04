@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7
+#!/usr/bin/env python2.7
 
 '''
 Created on 18/11/2013
@@ -16,6 +16,7 @@ from Bio.Data.CodonTable import standard_dna_table
 
 
 from os import remove
+
 
 
 def codon_count(sequence):
@@ -72,9 +73,9 @@ def main():
         CDS_CAI_Index=CodonUsage.CodonAdaptationIndex() #init CAI object
         CDS_CAI_Index.generate_index(args.mrna) #read mRNA file and create CAI index
         #CDS_CAI_Index.print_index()
-        if args.othersfasta is not None:
+        if args.samplerna is not None:
             try:
-                CAI_print(args.othersfasta,CDS_CAI_Index)
+                CAI_print(args.samplerna,CDS_CAI_Index)
             except TypeError:
                 output_tmp_file_name=Exception_Fixer(args.samplerna)
                 CAI_print(output_tmp_file_name,CDS_CAI_Index)
@@ -96,13 +97,13 @@ def main():
         output_tmp_file_name=Exception_Fixer(args.mrna)
         CDS_CAI_Index=CodonUsage.CodonAdaptationIndex() #init CAI object
         CDS_CAI_Index.generate_index(output_tmp_file_name) #read mRNA file and create CAI index
-        if args.othersfasta is not None:
+        if args.samplerna is not None:
             try:
-                CAI_print(args.othersfasta,CDS_CAI_Index)
+                CAI_print(args.samplerna,CDS_CAI_Index)
             except TypeError:
                 output_tmp_file_name=Exception_Fixer(args.samplerna)
                 CAI_print(output_tmp_file_name,CDS_CAI_Index)
-                #print "Exception in othersfasta file which probably have wrong codons or codon numbers..."
+                #print "Exception in samplerna file which probably have wrong codons or codon numbers..."
                 #raise
             except:
                 print "Unexpected error"

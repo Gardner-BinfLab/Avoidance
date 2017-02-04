@@ -1,10 +1,11 @@
 #!/bin/bash
 
 # $1 A FASTA file of a selected mRNA. (This is a protein coding gene)
-# $2 core protein coding genes of a selected species. (This is for calculating codon bias)
+# $2 core protein coding genes. (This is for calculating codon index)
 # $3 core ncRNA genes of a selected species. (This is for calculating avoidance)
-# $4 the number of sequences to be created. (If not selected, the default is 100 per the line in avoidance table.)
 
+# $4 core protein coding genes or protein coding genes of a selected species. (This is for RNA codon distribution. Not necessarily core genes)
+# $5 the number of sequences to be created. (If not selected, the default is 100 per the line in avoidance table.)
 
 if [ $# -ge 3 ] && [ -f $1 ] && [ -f $2 ] && [ -f $3 ]; then
 
@@ -12,7 +13,7 @@ cat $1 | awk '{if(/>/) print; else print substr($0,1,21)}' > $1.1.21.fasta # sli
 
 mRNA_sample.py -mrna $1.1.21.fasta > possible_leading_sequences.fasta #sample from the avoidance region
 
-CAI_calculator.py -mrna $2 -c > core_codon_frequency_table.csv #calculate the frequency table
+CAI_calculator.py -mrna $4 -c > codon_frequency_table.csv #calculate the frequency table of codons
 
 
 
@@ -35,7 +36,7 @@ done > ../avoidance_table.tsv # create the avoidance table
 cd ..
 
 #NOW sample using the available data. This part can be run isolated if all the tables are available.
-mRNA_sample.py -m $1 -f core_codon_frequency_table.csv -a avoidance_table.tsv -t $2 -n ${4:-100} > designed_mRNAs.fasta
+mRNA_sample.py -m $1 -f codon_frequency_table.csv -a avoidance_table.tsv -t $2 -n ${5:-100} > designed_mRNAs.fasta
 
 
 

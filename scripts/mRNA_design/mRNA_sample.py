@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7
+#!/usr/bin/env python2.7
 
 
 '''
@@ -9,32 +9,20 @@ Created on 16/12/2016
 
 
 from __future__ import print_function
-from Bio.SeqUtils import CodonUsage
-from Bio.Data import CodonTable
-
 
 from Bio.Data.CodonTable import standard_dna_table
-from hashlib import sha1
 from Bio.Seq import Seq
-from Bio import SeqIO
-import argparse
-from random import sample
 from string import ascii_lowercase
 from numpy import random
 from itertools import product
 import subprocess
-
-from collections import Counter
 from Bio.SeqUtils import CodonUsage
 from Bio import SeqIO
 import argparse
-import re
-from random import sample
 
-from Bio.Data.CodonTable import standard_dna_table
+from hashlib import md5
 
 
-from os import remove
 
 
 
@@ -74,7 +62,8 @@ def create_leading_region(mRNA_piece):
     amino_acids=map(lambda x: standard_dna_table.forward_table[x], slice_to_codons) #find amino acids eg.['M', 'K', 'Q', 'S', 'S', 'R', 'I', 'N', 'I']
     possible_codons=map(lambda x: [codon for codon, aa in standard_dna_table.forward_table.iteritems() if aa==x],amino_acids)
 
-    map(lambda x: print(">%s\n%s" % (''.join(sample(ascii_lowercase+'1234567890',10)),''.join(x))),list(product(*possible_codons)))
+
+    map(lambda x: print(">%s\n%s" % (md5(''.join(x).lower()).hexdigest(),''.join(x))),list(product(*possible_codons)))
     return
 
 
@@ -125,8 +114,8 @@ def main():
             for _ in xrange(0,args.n):
                 mRNA_mutated=shuffle_global_with_initial_seq_with_frequencies(original_mRNA,sequence_piece,args.frequencytable)
 
-                assigned_id=''.join(sample(ascii_lowercase+'1234567890',15))
-                print(">%s avoidance_mfe: %f folding_mfe: %f cai: %f\n %s" %(assigned_id,
+                assigned_id=md5(mRNA_mutated.lower()).hexdigest()
+                print(">%s avoidance_mfe: %f folding_mfe: %f cai: %f\n%s" %(assigned_id,
                                                                       avoidance_dictionary[sequence_piece],
                                                                       calculate_5prime_folding(mRNA_mutated),
                                                                       training_cai_index.cai_for_gene(str(mRNA_mutated).lower()),mRNA_mutated))
