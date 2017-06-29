@@ -1,5 +1,8 @@
 # Avoidance paper supplementary files.
 
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+
+
 The file directory contains all supplementary tables (Tables S1-S5).  
 The plots directory contains the high quality PDF plot files (Figures 1-4 and all the Supplementary Figures).  
 The scripts directory contains some of our Python and R scripts. We also provided an mRNA design script.  
