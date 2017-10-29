@@ -11,7 +11,7 @@
 
 if [ $# -ge 4 ] && [ -f $1 ] && [ -f $2 ] && [ -f $3 ] && [ -f $4 ]; then
 
-cat $1 | awk '{if(/>/) print; else print substr($0,1,21)}' > $1.1.21.fasta # slice out the avoidance region
+cat $1 | gawk '{if(/>/) print; else print substr($0,1,21)}' > $1.1.21.fasta # slice out the avoidance region
 
 ./mRNA_sample.py -mrna $1.1.21.fasta > possible_leading_sequences.fasta #sample from the avoidance region
 
