@@ -23,7 +23,7 @@ def RNAup_executer_parallel(mRNA_file,ncRNA_file,n_jobs):
     return
 
 def compute_function(a_single_mRNA,ncRNA_list):
-    sample_name=str(a_single_mRNA.description)
+    sample_name=str(a_single_mRNA.description).strip()
     with open(sample_name+'.seq',"w") as tmp_file:
         tmp_file.write('>' + sub('\s','$',str(a_single_mRNA.description)) +'\n' + str(a_single_mRNA.seq) +'\n')
         for sequence in ncRNA_list:

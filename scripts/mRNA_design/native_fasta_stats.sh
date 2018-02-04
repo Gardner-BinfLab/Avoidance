@@ -15,7 +15,7 @@ cat $1.tmp | gawk '{if(/>/) print; else print substr($0,1,21)}' > $1.1.21.fasta 
 
 ./RNAup_avoidance_calculator.py -m $1.1.21.fasta -n $3 #calculate avoidance files
 
-filename=$(cat $1.1.21.fasta | gawk 'match($0,/>(.*)/,m){print m[1]}') #detect the filename
+filename=$(cat $1.1.21.fasta | gawk 'match($0,/>(\S+)/,m){print m[1]}') #detect the filename
 
 
 
