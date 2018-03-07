@@ -21,8 +21,8 @@ The data directory contains the R data files of the plots.
 <sup>4</sup>Department of Biochemistry and Molecular Biology, University of Melbourne, Parkville, VIC 3010, Australia.  
 
 #### Contact:  
-Sinan U. Umu sinanugur@gmail.com
-Paul P. Gardner paul.gardner@otago.ac.nz, ppgardner@gmail.com  
+*Sinan U. Umu sinanugur@gmail.com
+*Paul P. Gardner paul.gardner@otago.ac.nz, ppgardner@gmail.com  
 
 
 #### Citiation:
